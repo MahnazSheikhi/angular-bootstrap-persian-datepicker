@@ -1,9 +1,9 @@
 {
-  "name": "angular-bootstrap-persian-datepicker",
+  "name": "arad-angular-bootstrap-persian-datepicker",
   "version": "0.0.1",
-  "homepage": "https://github.com/AminRahimi/angular-bootstrap-persian-datepicker",
+  "homepage": "https://github.com/aradsystemco/angular-bootstrap-persian-datepicker",
   "authors": [
-    "AminRahimi <mnrhmm@gmail.com>"
+    "AradSystemCo <support@aradsystem.co>"
   ],
   "description": "This is a persian date picker for angular framework",
   "main": ["./persiandate.js","./persian-datepicker-tpls.js"],
